@@ -18,7 +18,6 @@ minio/minio
 minio/minio:RELEASE.2024-06-06T09-36-42Z
 
 # Elasticsearch
-elasticsearch
 elasticsearch:7.17.3
 
 # Nginx
