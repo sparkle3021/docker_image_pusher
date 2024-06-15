@@ -1,6 +1,7 @@
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+nginx:1.27.0
+minio/minio:RELEASE.2024-06-06T09-36-42Z
+redis/redis-stack-server:7.2.0-v10-x86_64
+mysql:8.0.32
+azul/zulu-openjdk:21.0.3-jre-headless
+xuchengen/rocketmq:5.1.0
+certbot/certbot
