@@ -3,9 +3,9 @@ mysql
 mysql:8.0.32
 
 # Postgres
-docker pull postgres
-docker pull postgres:14
-docker pull postgres:14-bookworm
+postgres
+postgres:14
+postgres:14-bookworm
 
 # Redis
 redis
