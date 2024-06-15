@@ -1,4 +1,5 @@
 mysql:8.0.32
+redis:7.2
 redis/redis-stack-server:7.2.0-v10-x86_64
 minio/minio:RELEASE.2024-06-06T09-36-42Z
 nginx
