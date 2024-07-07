@@ -1,5 +1,5 @@
 # Portainer面板
-portainer-ce
+portainer/portainer-ce
 
 # MySQL
 mysql
