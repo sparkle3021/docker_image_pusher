@@ -43,3 +43,8 @@ rabbitmq:3.13.3-management
 # JDK
 azul/zulu-openjdk:17.0.9-jre-headless
 azul/zulu-openjdk:21.0.3-jre-headless
+
+# Node.js
+node:16-alpine
+node:18-alpine
+node:20-alpine
