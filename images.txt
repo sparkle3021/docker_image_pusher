@@ -7,14 +7,19 @@ mysql:8.0.32
 
 # Postgres
 postgres
+postgres:alpine
 postgres:14
+postgres:14-alpine
 postgres:14-bookworm
+postgres:16
+postgres:16-alpine
+postgres:16-bookworm
 
 # Redis
 redis
-redis:7.2
+redis:7.4
 redis/redis-stack-server
-redis/redis-stack-server:7.2.0-v10-x86_64
+redis/redis-stack-server:7.4.0-v0-x86_64
 
 # MinIO
 minio/minio
@@ -43,6 +48,8 @@ rabbitmq:3.13.3-management
 # JDK
 azul/zulu-openjdk:17.0.9-jre-headless
 azul/zulu-openjdk:21.0.3-jre-headless
+azul/zulu-openjdk:17.0.9-jdk
+azul/zulu-openjdk:21.0.3-jdk
 
 # Node.js
 node:16-alpine
