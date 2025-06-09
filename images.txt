@@ -1,15 +1,24 @@
-openjdk:8
-openjdk:8-jdk-slim
-openjdk:11
-openjdk:11-jdk-slim
-openjdk:17
-openjdk:17-jdk-slim
-openjdk:21
-openjdk:21-jdk-slim
+# JDK
+#openjdk:8
+#openjdk:8-jdk-slim
+#openjdk:11
+#openjdk:11-jdk-slim
+#openjdk:17
+#openjdk:17-jdk-slim
+#openjdk:21
+#openjdk:21-jdk-slim
 
-azul/zulu-openjdk:8-jdk-crac
-azul/zulu-openjdk:8-jre-headless
-azul/zulu-openjdk:17-jdk-crac
-azul/zulu-openjdk:17-jre-headless
-azul/zulu-openjdk:21-jdk-crac
-azul/zulu-openjdk:21-jre-headless
+#azul/zulu-openjdk:8-jdk-crac
+#azul/zulu-openjdk:8-jre-headless
+#azul/zulu-openjdk:17-jdk-crac
+#azul/zulu-openjdk:17-jre-headless
+#azul/zulu-openjdk:21-jdk-crac
+#azul/zulu-openjdk:21-jre-headless
+
+# Portainer面板
+portainer/portainer-ce
+
+# MySQL
+mysql
+mysql:5.7
+mysql:8.0.32
