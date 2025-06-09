@@ -16,9 +16,19 @@
 #azul/zulu-openjdk:21-jre-headless
 
 # Portainer面板
-portainer/portainer-ce
+#portainer/portainer-ce
 
 # MySQL
-mysql
-mysql:5.7
-mysql:8.0.32
+#mysql
+#mysql:5.7
+#mysql:8.0.32
+
+# Postgres
+postgres
+postgres:alpine
+postgres:14
+postgres:14-alpine
+postgres:14-bookworm
+postgres:16
+postgres:16-alpine
+postgres:16-bookworm
